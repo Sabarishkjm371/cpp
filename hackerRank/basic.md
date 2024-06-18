@@ -14,12 +14,12 @@ for(int i = 0; i < 10; i++) {
 }
 In this challenge, you will use a for loop to increment a variable through a range.
 
-#Input Format
-##You will be given two positive integers,  and  (), separated by a newline.
+# Input Format
+You will be given two positive integers,  and  (), separated by a newline.
 
 
 
-#Output Format
+# Output Format
 
 For each integer  in the inclusive interval :
 
@@ -28,15 +28,17 @@ Else if  and it is an even number, then print "even".
 Else if  and it is an odd number, then print "odd".
 Note: 
 
-Sample Input
-**
-8
-11**
+** Sample Input **
 ```c++
-Sample Output
+8
+11
 ```
 
+** Sample Output **
+
+```c++
 eight
 nine
 even
 odd
+```
